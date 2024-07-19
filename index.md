@@ -8,15 +8,10 @@ I am a Master student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognitton, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI for Quantum Computing:** , AI methods for building quantum computer in NISQ
+- **Quantum Inspired Algorithems:** novel quantum algorithms for classical computing, quantum algorithm without quantum machine
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
