@@ -3,7 +3,7 @@ main:
   - title: Optical Quantum Sensing for Agnostic Environments via Deep Learning
     authors: <strong>Zeqiao Zhou</strong>, Yuxuan Du, Xinmei Tian, and Dacheng Tao 
     conference_short: arxiv
-    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: Manuscript, 2023
     pdf: https://arxiv.org/pdf/2311.07203
     code: https://github.com/ZeddTheGoat/Deep-learning-Quantum-Sensing
     #bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,8 +13,8 @@ main:
   - title: "QAOA-in-QAOA: Solving Large-Scale MaxCut Problems on Small Quantum Machines"
     authors: <strong>Zeqiao Zhou</strong>, Yuxuan Du, Xinmei Tian, and Dacheng Tao
     conference_short: PRApplied
-    conference: Physical Review Applied 2023
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    conference: Physical Review Applied, 2023
+    pdf: ./assets/files/qaoa2.pdf
     code: https://github.com/ZeddTheGoat/QAOA_in_QAQA
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
