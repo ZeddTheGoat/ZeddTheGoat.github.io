@@ -4,7 +4,7 @@ main:
     authors: <strong>Zeqiao Zhou</strong>, Yuxuan Du, Xinmei Tian, and Dacheng Tao 
     conference_short: arxiv
     conference: Manuscript, 2023
-    pdf: https://arxiv.org/pdf/2311.07203
+    pdf: ./assets/files/DQS.pdf
     code: https://github.com/ZeddTheGoat/Deep-learning-Quantum-Sensing
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/dqs.png
